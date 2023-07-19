@@ -8,6 +8,7 @@
 Google 이미지 검색 결과에 대한 Web Crawling 진행, 인터넷의 애완 물고기 동호회 사이트에 방문하여 이미지 수집
 
 [예시]
+
 ![bettafish](https://github.com/dusdnKR/GANtasticFish/assets/84877632/41d3a529-cbe0-47f3-a0c9-b50fcef9bb3c)
 
 ### 2.2 CNN 모델 생성 및 평가
