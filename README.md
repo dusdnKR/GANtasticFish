@@ -6,6 +6,7 @@
 ## 2. 과제 수행 방법
 ### 2.1 데이터 수집 및 전처리
 Google 이미지 검색 결과에 대한 Web Crawling 진행, 인터넷의 애완 물고기 동호회 사이트에 방문하여 이미지 수집
+![bettafish](https://github.com/dusdnKR/GANtasticFish/assets/84877632/82d34f02-5d1f-400a-9798-c1aeae1636d9)
 
 ### 2.2 CNN 모델 생성 및 평가
 Python 라이브러리인 ‘keras’를 활용하여 CNN 모델 생성.
